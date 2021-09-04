@@ -1,3 +1,4 @@
-class{
-  //THIS IS A TEST
+.class{
+
+  //new change
 }
